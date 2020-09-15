@@ -1,2 +1,11 @@
-.idea
+nb*.xml
 target
+*.iml
+.settings
+.project
+.classpath
+*.pyc
+.idea
+.DS_Store
+src/test/*input*
+src/test/*output*
